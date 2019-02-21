@@ -22,7 +22,7 @@ attributes: {
 
   avatar: {
     type: 'string',
-    required: true,
+    required: false,
     defaultsTo: 'https://s.gravatar.com/avatar/e28f6f64608c970c663197d7fe1f5a59?s=60'
   },
 
