@@ -1,0 +1,22 @@
+{
+  "name": "chat-app",
+  "description": "a Sails application",
+  "main": "app.js",
+  "authors": [
+    "Gamer4life1"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/lylyy101010/sails-chat-app",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "semantic": "semantic-ui#^2.4.1",
+    "jsrender": "^1.0.2"
+  }
+}
