@@ -6,6 +6,11 @@
   <!-- Members List Section -->
   <div class="four wide column">
     <% include partials/chat-users.ejs %>
+    <script type="text/javascript">
+        window.onload = function() {
+            loadUsers();
+        }
+    </script>
   </div>
 
   <div class="twelve wide column">
@@ -21,8 +26,3 @@
   </div>
 </div>
 </div>
-<script type="text/javascript">
-window.onload = function() {
-  loadUsers();
-}
-</script>
