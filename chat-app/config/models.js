@@ -37,7 +37,7 @@ module.exports.models = {
 
   // schema: true,
 
-
+  migrate: 'drop',
   /***************************************************************************
   *                                                                          *
   * How and whether Sails will attempt to automatically rebuild the          *
