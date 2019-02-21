@@ -69,6 +69,10 @@ var jsFilesToInject = [
 'vendor/semantic/dist/semantic.js',
 'vendor/jsrender/jsrender.js',
 
+'vendor/jquery/jquery.min.js',
+'vendor/semantic-ui/semantic.js',
+'vendor/jsrender/jsrender.js',
+
 // Dependencies like jQuery or Angular are brought in here
 'js/dependencies/**/*.js',
 
